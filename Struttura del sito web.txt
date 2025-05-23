@@ -1,0 +1,39 @@
+chrytursi/
+├── index.html                  ← Home Page (italiano)
+├── css/
+│   └── style.css              ← Foglio di stile
+├── cosmo.avif
+├── scacchiera.jpg
+├── html/
+│   ├── Nascita_passione.html
+│   ├── Regionali.html
+│   └── Regole_e_tattiche.html
+│
+├── html/img/                  ← Immagini del sito
+│   ├── Arrocco.jpg
+│   ├── Batteria.jpg
+│   ├── Crazy queen.png
+│   ├── Deflection.png
+│   ├── En passant.png
+│   ├── Fianchetto.jpg
+│   ├── FIDE.png
+│   ├── Forced stalemate.webp
+│   ├── Forchetta.png
+│   ├── Foto1.jpg
+│   ├── Foto2.jpg
+│   ├── Foto3.jpg
+│   ├── Foto4.jpg
+│   ├── Foto5.jpg
+│   ├── FSI.jpg
+│   ├── Inchiodatura incrociata.jpeg
+│   ├── promozione.png
+│   ├── Scacchiera.png
+│   ├── Scacco matto.png
+│   └── Stalemate.png
+│
+├── eng/
+│   ├── index_eng.html         ← Home Page (inglese)
+│   └── html/
+│       ├── How_the_passion_began.html
+│       ├── Regional_chess_tournament.html
+│       └── Rules_and_tactics.html
